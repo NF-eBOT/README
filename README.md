@@ -1,2 +1,2 @@
 # README
-About NF-eBOT project.
+Under construction!
